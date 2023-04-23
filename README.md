@@ -11,7 +11,7 @@ List of the great apps on opensource (FOSS) app market F-droid (https://f-droid.
 * [DNS66](https://f-droid.org/packages/org.jak_linux.dns66/) Block ads via DNS without root.
 * [OpenBoard](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin/) Keyboard that is based on AOSP and doesn't requrire google binaries.
 * [OsmAnd](https://f-droid.org/pl/packages/net.osmand.plus/) Map navigation/browser that is using OSM (openstreetmaps)
-* [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/) Allows to use privatly smartwatch and other bluetooth devices without propierty software
+* [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/) Allows to use privately smartwatch and other bluetooth devices without proprietary software
 
 ## Security 
 * [KeePassDX](https://f-droid.org/pl/packages/com.kunzisoft.keepass.libre/) Password manager compatible with KeePass
@@ -20,7 +20,7 @@ List of the great apps on opensource (FOSS) app market F-droid (https://f-droid.
 * [Aegis Authenticator](https://f-droid.org/en/packages/com.beemdevelopment.aegis/) 2FA (two factor authentication) app that is compatible with a lot services for example (Microsoft Authenticator, steam, google authenticator)
 
 ## Media
-* [VLC](https://f-droid.org/packages/org.videolan.vlc/) Video (and music) playes that supports any video/audio format.
+* [VLC](https://f-droid.org/packages/org.videolan.vlc/) Video and music player that supports any video/audio format.
 * [ownCloud](https://f-droid.org/pl/packages/com.owncloud.android/) Allows syncthing files, contacts, music, pictures etc from ownCloud.
 * [Open Camera](https://f-droid.org/en/packages/net.sourceforge.opencamera/) Feature rich camera app 
 * [PhotoPrism](https://f-droid.org/en/packages/ua.com.radiokot.photoprism/) Photoprism gallery for photoprism.
