@@ -23,7 +23,7 @@ List of the great apps on opensource (FOSS) app market F-droid (https://f-droid.
 * [Termux](https://f-droid.org/app/com.termux) Terminal emulator with packages (node, python, ssh)
 * [K-9 Mail](ttps://f-droid.org/app/com.fsck.k9) Great email with pop3, imap and encryption
 * [AnkiDroid](https://f-droid.org/packages/com.ichi2.anki/) Learning English and Japanese through flashcards (compatible with Anki data)
-* [AtennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) Podcasts
+* [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) Podcasts
 * [Red Moon](https://f-droid.org/packages/com.jmstudios.redmoon/) Screen filter for night phone usage
 * [Slide](https://f-droid.org/packages/me.ccrama.redditslide/) Reddit
 * [Syncthing](https://f-droid.org/packages/com.nutomic.syncthingandroid/) File Synchronization
